@@ -9,4 +9,11 @@
     <ProjectReference Include="..\Cricarba.Refactoring.Dominio\Cricarba.Refactoring.Dominio.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="SOLID\3.L\Bien\" />
+    <Folder Include="SOLID\3.L\Mal\" />
+    <Folder Include="SOLID\5.D\Bien\" />
+    <Folder Include="SOLID\5.D\Mal\" />
+  </ItemGroup>
+
 </Project>
